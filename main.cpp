@@ -1,6 +1,7 @@
 #include "train.h"
 
 int main() {
+  //lab4lab4
   int N;
   ticket *nomenclature;
   local_time *local_time_arr;
